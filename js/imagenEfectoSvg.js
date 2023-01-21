@@ -489,7 +489,5 @@ function imagenEfecto()
     document.write('               <text transform="matrix(0.583 0 0 0.583 53 378.8783)" class="st8 st9 st10">** Hermosa Playa Isla de Muise **</text>');
     document.write('               </svg>                  ');
     document.write('                </figure>');
-
+console.log('Hola parametro x');
 }
-
-imagenEfecto();
