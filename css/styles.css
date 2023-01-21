@@ -208,6 +208,11 @@ hr {
     align-items: center;
 }
 
+img {
+    height: auto;
+    width: auto;
+  }
+
 .nav-logo-img {
     max-height: 35px;
 }
