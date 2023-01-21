@@ -1,4 +1,4 @@
-7056
+7055
 148C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\is-boolean-object\.eslintignore133134238821276805 0
 164C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2020\GetPrototypeFromConstructor.js133134238990288506 0
 128C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\cross-spawn133186522230441839 1
@@ -52,7 +52,7 @@
 140C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\htmlnano\lib\helpers.js133134208759600000 0
 152C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2016\QuoteJSONString.js133134239050948475 0
 155C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\terser\node_modules\commander\index.js133134208772500000 0
-108C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist133187591850444922 1
+108C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist133187640159888241 1
 116C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules133186530891157072 1
 151C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\electron-to-chromium\versions.json133134208741990000 0
 157C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\supports-preserve-symlinks-flag\index.js133134238831290873 0
@@ -76,7 +76,7 @@
 155C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\json-parse-even-better-errors\index.js133134209068920000 0
 132C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\hosted-git-info133186530893631931 1
 125C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\boolbase133186521902238629 1
-114C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\index.html133187551231126384 0
+114C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\index.html133187614918303778 0
 146C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\svgo\plugins\convertColors.js133134238875079242 0
 159C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\terser\node_modules\commander\CHANGELOG.md133134208772500000 0
 152C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2015\thisNumberValue.js133134239064080627 0
@@ -140,7 +140,7 @@
 129C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\side-channel133186523355291004 1
 136C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\get-port\index.d.ts133134208635660000 0
 113C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\yarn.lock133186530896131829 0
-124C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\src\gastronomia.html133187585783801866 0
+124C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\src\gastronomia.html133187618432715717 0
 164C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\core\test\fixtures\config-node-pipeline133186521561489401 1
 161C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\string.prototype.trimstart\implementation.js133134238832198442 0
 133C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\lmdb\SECURITY.md133134208753960000 0
@@ -156,9 +156,9 @@
 158C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\read-pkg\node_modules\path-type\readme.md133134238829994593 0
 136C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\resolve\test\dotdot133186523303706641 1
 140C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2020\Day.js133134238971398822 0
-120C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\src\resumen.html133187584957160677 0
+120C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\src\resumen.html133187618318392921 0
 148C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\caniuse-lite\data\regions\IQ.js133134208741600000 0
-119C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\src\videos.html133187586386288827 0
+119C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\src\videos.html133187616600054287 0
 135C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\fs\LICENSE133134208630920000 0
 168C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\caniuse-lite\data\features\background-attachment.js133134208741600000 0
 161C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\read-pkg\node_modules\path-type\package.json133134238815414613 0
@@ -294,7 +294,7 @@
 150C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\npm-run-all\bin\common\version.js133134238837813193 0
 126C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\call-bind133186521912622600 1
 134C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\yaml\dist\util.js133134209053200000 0
-130C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\index.0b9d1465.js.map133187591850288680 0
+130C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\index.0b9d1465.js.map133187640159848231 0
 164C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\caniuse-lite\data\features\loading-lazy-attr.js133134208741600000 0
 170C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\extended\.idea\inspectionProfiles\Project_Default.xml133134253065459168 0
 131C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\skema\index.js133134263285516107 0
@@ -1299,7 +1299,7 @@
 148C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\workers\src\cpuCount.js133134208654380000 0
 141C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\weak-lru-cache\README.md133134208833860000 0
 148C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\weak-lru-cache\rollup.config.js133134208833860000 0
-136C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\logoIslaMuisne.6f2c9413.png133187591835156635 0
+136C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\logoIslaMuisne.6f2c9413.png133187640147144555 0
 137C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\weak-lru-cache\tests133186523545656047 1
 144C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2018\ToInt16.js133134239070685267 0
 144C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\transformer-raw\lib133186521746907959 1
@@ -1310,7 +1310,7 @@
 150C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\weak-lru-cache\tests\benchmark.js133134208833860000 0
 159C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2015\CreateIterResultObject.js133134238961770119 0
 134C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\react-refresh\cjs133186523252743321 1
-129C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\src\gastronomia.html133187591849507420 0
+129C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\src\gastronomia.html133187640158128227 0
 145C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\weak-lru-cache\tests\test.js133134208833860000 0
 133C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\stable\stable.js133134209021380000 0
 172C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@babel\highlight\node_modules\supports-color\browser.js133134209093910000 0
@@ -1791,7 +1791,7 @@
 138C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\namer-default133186521609985686 1
 144C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\source-map\lib\array-set.js133134209052050000 0
 163C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133134238911116092 0
-135C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\BanderaEfecto.b205638d.svg133187591849507420 0
+135C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\BanderaEfecto.b205638d.svg133187640159388355 0
 152C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\svgo\plugins\removeScriptElement.js133134238915966730 0
 152C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2021\BigInt\toString.js133134239076436543 0
 132C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\source-map\dist133186523371489934 1
@@ -2092,7 +2092,7 @@
 149C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2022\HourFromTime.js133134238992607624 0
 151C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2022\PromiseResolve.js133134239050792238 0
 138C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\es2018.js133134238976415382 0
-134C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\icon-twitter.145ec646.svg133187591849351247 0
+134C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\icon-twitter.145ec646.svg133187640157928348 0
 142C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\resolve\test\mock_sync.js133134238920444286 0
 157C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\source-map-support\source-map-support.js133134209026490000 0
 151C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2021\CharacterRange.js133134238945419693 0
@@ -3322,7 +3322,7 @@
 139C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\json5\lib\stringify.js133134238850485710 0
 161C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\caniuse-lite\data\features\css-snappoints.js133134208741600000 0
 137C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\json5\lib\unicode.js133134238852597570 0
-134C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\icon-youtube.f5175996.svg133187591849351247 0
+134C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\icon-youtube.f5175996.svg133187640157928348 0
 144C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@jridgewell\source-map\dist133186521489900269 1
 140C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\csso\lib\replace\Url.js133134209021440000 0
 136C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\json5\lib\util.d.ts133134238881718997 0
@@ -3590,7 +3590,7 @@
 142C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\has-tostringtag\README.md133134238853407246 0
 162C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@jridgewell\source-map\dist\source-map.umd.js133134209051200000 0
 141C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\has-tostringtag\shams.js133134238843325103 0
-145C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\playaMuisneFrontal-600p.d47a0425.jpg133187591835156635 0
+145C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\playaMuisneFrontal-600p.d47a0425.jpg133187640147144555 0
 137C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\has-tostringtag\test133186522932530499 1
 143C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\has-tostringtag\test\shams133186522933311750 1
 149C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2017\IteratorNext.js133134239035991908 0
@@ -3722,12 +3722,12 @@
 155C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2021\SpeciesConstructor.js133134239059796792 0
 135C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\get-intrinsic\test133186522884302680 1
 133C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2016133186522496335011 1
-136C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\icon-instagram.c2f13159.svg133187591849351247 0
+136C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\icon-instagram.c2f13159.svg133187640157928348 0
 151C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\get-intrinsic\test\GetIntrinsic.js133134238829682105 0
 168C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\core\test\fixtures\main-global\package.json133134208631020000 0
 135C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\clean\package.json133134263285875767 0
 147C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\functions-have-names\.eslintrc133134238821433045 0
-132C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\mapaMuisne.5d5deb1c.jpg133187591835156635 0
+132C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\mapaMuisne.5d5deb1c.jpg133187640147114552 0
 146C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\functions-have-names\index.js133134238831270711 0
 153C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\package-manager\src\types.js133134208630980000 0
 142C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\functions-have-names\test133186522882271415 1
@@ -4338,7 +4338,7 @@
 175C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@babel\highlight\node_modules\color-convert\conversions.js133134209094790000 0
 146C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2021\StringPad.js133134239061764962 0
 155C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2021\StringToCodePoints.js133134239062044701 0
-119C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\index.html133187591849507420 0
+119C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\index.html133187640159458253 0
 150C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2018\DayWithinYear.js133134238972935227 0
 152C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2021\thisBigIntValue.js133134239063557954 0
 158C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2019\DeletePropertyOrThrow.js133134238974094066 0
@@ -4474,7 +4474,7 @@
 146C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2020\IsPromise.js133134239028128455 0
 157C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\source-map\parcel_sourcemap_wasm133186521715365989 1
 151C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2020\IsStringPrefix.js133134239033831625 0
-134C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\cangrejoAzul.e071967f.jpg133187591835156635 0
+134C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\cangrejoAzul.e071967f.jpg133187640147144555 0
 151C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2020\IterableToList.js133134239034677907 0
 150C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2020\IteratorClose.js133134239035302935 0
 149C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\es-abstract\2020\IteratorNext.js133134239036304387 0
@@ -6606,7 +6606,7 @@
 158C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\optimizer-image\lib\loadNative.js133134208677570000 0
 156C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\optimizer-htmlnano\node_modules133186521638161673 1
 156C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\optimizer-htmlnano\package.json133134208684050000 0
-126C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\index.0b9d1465.js133187591849663677 0
+126C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\index.0b9d1465.js133187640159498271 0
 168C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\optimizer-htmlnano\lib\HTMLNanoOptimizer.js133134208684050000 0
 151C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\node-resolver-core\LICENSE133134208804980000 0
 142C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\optimizer-css\lib133186521625790040 1
@@ -6879,7 +6879,7 @@
 157C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\core\lib\requests\PathRequest.js133134208631020000 0
 159C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\core\lib\requests\TargetRequest.js133134208631020000 0
 151C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\core\lib\public\Symbols.js133134208631020000 0
-133C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\icon-search.64dad863.svg133187591849507420 0
+133C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\icon-search.64dad863.svg133187640158108209 0
 150C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\core\lib\public\Target.js133134208631020000 0
 147C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\config-default\LICENSE133134208631950000 0
 152C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\node_modules\@parcel\config-default\package.json133134208631950000 0
@@ -7038,19 +7038,18 @@
 139C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\images\undraw_for_review_eqxk 1.svg133162946537371823 0
 125C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\images\logos\casa.png133162946536903126 0
 133C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\images\icons\icon-youtube.svg133162946536590602 0
-134C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\comidaMuisne.543ee2b0.jpg133187591835156635 0
-131C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\Encocado.c00eab86.webp133187591716755505 0
-135C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\icon-facebook.061cdf9d.svg133187591849507420 0
-127C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\index.bedc492d.css133187591849507420 0
-131C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\index.bedc492d.css.map133187591850132432 0
-135C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\lanchasMuisne.f07a3e67.jpg133187591835156635 0
-137C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\logoIslaMuisne.492f37d4.webp133187591716755505 0
-127C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\peces.b2a01348.jpg133187591835156635 0
-133C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\playaSimple.88a2b4da.jpg133187591835156635 0
-112C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\src133187591849976180 1
-130C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\src\menuGenerico.html133187591849351247 0
-125C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\src\resumen.html133187591849507420 0
-124C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\src\videos.html133187591849507420 0
+134C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\comidaMuisne.543ee2b0.jpg133187640147114552 0
+131C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\Encocado.c00eab86.webp133187640058056122 0
+135C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\icon-facebook.061cdf9d.svg133187640158088288 0
+127C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\index.bedc492d.css133187640159388355 0
+131C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\index.bedc492d.css.map133187640159708296 0
+135C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\lanchasMuisne.f07a3e67.jpg133187640147134541 0
+137C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\logoIslaMuisne.492f37d4.webp133187640058056122 0
+127C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\peces.b2a01348.jpg133187640147124553 0
+133C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\playaSimple.88a2b4da.jpg133187640147154545 0
+112C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\src133187640159628258 1
+125C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\src\resumen.html133187640157158232 0
+124C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\dist\src\videos.html133187640159458253 0
 118C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\cssproject\css133186520246053490 1
 132C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\cssproject\css\_elements.css133162946532528322 0
 129C:\Maestria-desarrolloSitiosWeb\2doSemestre\M4.257-HerramientasHTMLyCSSaula1\PEC03\pec3HerramientasHtml\cssproject\css\_reset.css133162946532528322 0
