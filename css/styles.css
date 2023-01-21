@@ -209,10 +209,10 @@ hr {
 }
 
 img {
-    height: auto;
-    width: auto;
+    height: 100% !important;
+    width: 100% !important;
   }
-
+  
 .nav-logo-img {
     max-height: 35px;
 }
