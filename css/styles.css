@@ -286,7 +286,7 @@ footer {
 }
 
 footer hr {
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid rgb(0, 0, 0);
 }
 
 .footer-top,
