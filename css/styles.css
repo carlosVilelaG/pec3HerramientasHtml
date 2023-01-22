@@ -429,7 +429,7 @@ Home page
     transition: transform 0.1s;
     overflow: hidden;
     margin-bottom: 10px;
-    clip-path: circle(130px at center);
+    
 }
 
 .list-item-img:hover {
