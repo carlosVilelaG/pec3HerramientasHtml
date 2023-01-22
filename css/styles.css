@@ -582,7 +582,7 @@ Tabla
 /* Fluid images*/
 
 .img-fluid {
-    max-width: 60%;
+    max-width: 100%;
     height: auto;
     clip-path: circle(200px at center);
 }
