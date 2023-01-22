@@ -5,9 +5,9 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-	"parcel:dev": "parcel",
-	"parcel:build": "parcel build",
-	"clean": "rimraf dist .parcel-cache",
+    "parcel:dev": "parcel",
+    "parcel:build": "parcel build",
+    "clean": "rimraf dist .parcel-cache",
     "start": "npm-run-all clean parcel:dev",
     "build": "npm-run-all clean parcel:build"
   },
@@ -20,6 +20,7 @@
     "rimraf": "^3.0.2"
   },
   "dependencies": {
+    "cache-control": "^2.0.0",
     "clean": "^4.0.2",
     "npm-clean": "^1.0.3"
   }
