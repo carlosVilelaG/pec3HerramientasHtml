@@ -421,11 +421,12 @@ Home page
 
 .list-item-img {   
     background-size: cover;
-    max-width: 100%;
-    height: auto;
+    width: 100%;
+    max-height: auto;
     transition: transform 0.1s;
     overflow: hidden;
     margin-bottom: 10px;
+    clip-path: circle(130px at center);
 }
 
 .list-item-img:hover {
