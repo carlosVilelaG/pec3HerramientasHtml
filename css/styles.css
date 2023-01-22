@@ -424,10 +424,9 @@ Home page
 }
 
 .list-item-img {   
-    width: 100px; 
-    height: auto;
+    background-size: cover;
     max-width: 100%;
-    max-height: 100%;
+    height: auto;
     transition: transform 0.1s;
     overflow: hidden;
     margin-bottom: 10px;
